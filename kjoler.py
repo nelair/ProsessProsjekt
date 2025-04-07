@@ -3,7 +3,7 @@ from scipy.integrate import quad
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-
+hei
 # operation parameters
 # ----------------------------------------------------------------------
 alpha3   = 0.21  # (mol CO2abs)/(mol amine (MEA))  CO2 loading into absorber
