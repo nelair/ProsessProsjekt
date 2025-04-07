@@ -1,0 +1,1 @@
+Kjoler er fullstendig ubrukelig
